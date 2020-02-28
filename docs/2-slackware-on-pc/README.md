@@ -1,3 +1,3 @@
 Slackware installation
 
-now and after
+now and afte r
